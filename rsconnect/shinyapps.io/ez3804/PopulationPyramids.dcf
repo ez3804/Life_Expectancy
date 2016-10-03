@@ -2,9 +2,8 @@ name: PopulationPyramids
 account: ez3804
 server: shinyapps.io
 appId: 129124
-bundleId: 574606
+bundleId: 574623
 url: https://ez3804.shinyapps.io/PopulationPyramids/
-when: 1475455904.38509
+when: 1475458439.386
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: PopPyramids.R|rcharts_pyramids.R

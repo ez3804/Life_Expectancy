@@ -8,6 +8,7 @@ transition: rotate
 Population Life Expectancy
 ========================================================
 type: sub-section
+transition: rotate
 This presentation is created as part of peer assessment for the Developing Data Product course.
 
 - Use **Shiny** to build a data product
@@ -30,5 +31,15 @@ type: sub-section
 This application is using the data from package idbr, which is an R interface to the United States Census Bureau's International Data Base API. The IDB includes a host of international demographic indicators - including historical data and projections to 2050.
 
 Source code for the project is available on the [GitHub]https://github.com/ez3804/Life_Expectancy.
+
+More Ideas
+========================================================
+type: sub-section
+I will be adding more controls in the coming months such as:
+- Add country selection
+- Add year range 
+- Add disease density
+
+More to come......
 
 
