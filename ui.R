@@ -17,7 +17,7 @@ library(tidyr)
 
 ui <- fluidPage(
         
-        titlePanel("Life expectancy at birth by country and sex"),
+        titlePanel("Life expectancy at birth by country and sex in 2025"),
         
         sidebarLayout(
                 sidebarPanel(

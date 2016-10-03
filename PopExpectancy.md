@@ -24,7 +24,11 @@ The application allows the user to:
 - Future phase will add the year etc.
 
 
-Slide With Plot
+The Data
 ========================================================
+type: sub-section
+This application is using the data from package idbr, which is an R interface to the United States Census Bureau's International Data Base API. The IDB includes a host of international demographic indicators - including historical data and projections to 2050.
 
-![plot of chunk unnamed-chunk-1](PopExpectancy-figure/unnamed-chunk-1-1.png)
+Source code for the project is available on the [GitHub]https://github.com/ez3804/Life_Expectancy.
+
+
